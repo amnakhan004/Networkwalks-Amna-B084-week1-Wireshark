@@ -67,7 +67,7 @@ Below are the official completion scorecards validating my performance and score
 
 | Lab 5: TCP Stream Part 2 [75]% | Lab 6: HTTP Plain Text [100]% |
 | :---: | :---: |
-| ![Lab 5 Scorecard](wiresharklab5.png) | ![Lab 6 Scorecard](wiresharklab3.jpg) |
+| ![Lab 5 Scorecard](wiresharklab5.png) | ![Lab 6 Scorecard](wiresharklab3.png) |
 
 ---
 
